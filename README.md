@@ -22,5 +22,7 @@ Utility for transfering the coder image to an SD Card
 #### findcoder-appengine
 EXPERIMENTAL: A status server that can be run to help locate multiple Coder devices in a classroom scenario
 
+#### Education WebApps
+Learn coding with HTML5 | CSS3 | JavaScript | NodeJS
 
         
