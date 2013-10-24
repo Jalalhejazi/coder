@@ -1,18 +1,6 @@
 
-CODER FOR RASPBERRY PI 
-The easy way...
+INSTALL USING NODE.JS
 
-Coder for Raspberry Pi is distributed as a Pi SD Card image.
-If you want to go the easy route, please check out the
-documentation at http://goo.gl/coder
-
-
-
-EVERYONE ELSE
-
-If you want to install Coder on something else, or would
-like to install it on an existing Raspberry Pi, you can
-manually install it as well.
 
 BEFORE YOU START: 
   I recommend you do this as a normal user and not root.
