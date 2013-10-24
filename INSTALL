@@ -24,7 +24,7 @@ MANUAL INSTALL:
 1. You need to have node.js and npm installed
 
 2. Download Coder from git.
-   # git clone https://github.com/googlecreativelab/coder.git   
+   # git clone https://github.com/Jalalhejazi/coder.git  
 
 3. In coder-base run "npm install" to download all the
    needed modules.
