@@ -10,16 +10,20 @@ BEFORE YOU START:
 MANUAL INSTALL:
 
 1. You need to have node.js and npm installed
+   # before you start test your nodejs and npm: 
+   # test node installation using: node -v
+   # test npm installation using:  npm -v 
 
 2. Download Coder from git.
    # git clone https://github.com/Jalalhejazi/coder.git  
 
 3. In coder-base run "npm install" to download all the
-   needed modules.
+   needed modules. If this failes, then do the installation manually
+   npm install using package.json as installation configuration and versions.
 
 4. Install the basic Coder apps.
    # cd coder-apps
-   # ./install_common.sh
+   # ./install_common.sh ../coder-base/
 
 5. Edit config.js to your liking. I recommend starting
    with the settings in config.js.localhost and running
@@ -28,6 +32,9 @@ MANUAL INSTALL:
 6. Start Coder
    # cd coder-base
    # node localserver.js
+
+7. Test with Browser
+   # https://localhost:8001
 
 
 If you want to run Coder on an external port, you'll need
